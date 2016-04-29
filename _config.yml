@@ -1,0 +1,14 @@
+layout_spectrum: 0.3861578
+typography_spectrum: 0.2883053
+color:
+  saturation: 0.5695506
+  lightness: 0.4495519
+  brandStrength: 0.7796834
+  rhythmicContrast: 0.3745822
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Living Local
